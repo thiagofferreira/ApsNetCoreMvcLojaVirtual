@@ -13,6 +13,7 @@ namespace ProjetoZero
     {
         public static void Main(string[] args)
         {
+            int  x=0;
             CreateHostBuilder(args).Build().Run();
         }
 
